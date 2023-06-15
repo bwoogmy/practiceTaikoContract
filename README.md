@@ -1,0 +1,2 @@
+# practiceTaikoContract
+only practice
